@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FishSticks Game
 
 FishSticks is a game where you wrap 25 rings around sticks in an aquarium.
@@ -12,3 +13,7 @@ FishSticks is a game where you wrap 25 rings around sticks in an aquarium.
 6. Each subsequent game gets a little faster and faster in the speed of the rings dropping. 
 
 Good luck and have fun!
+=======
+# FishSticks-IJ
+This game was built with IntelliJ
+>>>>>>> a376dfc94278ffde20372e37d3dbb68132268157
